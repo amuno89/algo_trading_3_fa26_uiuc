@@ -1,0 +1,79 @@
+acronym,paper_name,yfinance_status,notes
+absacc,Absolute accruals,not available,Requires point-in-time accounting data
+acc,Working capital accruals,not available,Requires point-in-time accounting data
+aeavol,Abnormal earnings announcement volume,not available,Requires announcement and trading history
+age,Years since first Compustat coverage,proxy,Can approximate with first downloaded observation only
+agr,Asset growth,proxy,Can derive from balance sheets but not point-in-time
+baspread,Bid-ask spread,not available,Requires quote data
+beta,Beta,proxy,Can derive from returns
+betasq,Beta squared,proxy,Derived from beta
+bm,Book-to-market,proxy,Book value and market value may be approximated
+bm_ia,Industry-adjusted book-to-market,not available,Requires industry classifications and point-in-time accounting
+cash,Cash holdings,proxy,Requires balance sheet data
+cashdebt,Cash flow to debt,proxy,Requires balance sheet and cash-flow data
+cashpr,Cash productivity,not available,Exact paper definition requires accounting data
+cfp,Cash flow to price ratio,proxy,Requires cash flow and market value
+cfp_ia,Industry-adjusted cash flow to price,not available,Requires industry classifications
+chatoia,Industry-adjusted change in asset turnover,not available,Requires industry classifications
+chcsho,Change in shares outstanding,proxy,Historical shares may be incomplete
+chempia,Industry-adjusted change in employees,not available,Requires employee data
+chinv,Change in inventory,proxy,Requires balance sheet data
+chmom,Change in six-month momentum,proxy,Can derive from prices
+chpmia,Industry-adjusted change in profit margin,not available,Requires industry classifications
+chtx,Change in tax expense,not available,Requires accounting data
+cinvest,Corporate investment,proxy,Requires cash-flow and balance-sheet data
+convind,Convertible debt indicator,not available,Requires security-level debt data
+currat,Current ratio,proxy,Can derive from balance sheet
+depr,Depreciation over PP&E,proxy,Requires accounting data
+divi,Dividend initiation,proxy,Corporate actions can identify dividend changes
+divo,Dividend omission,proxy,Corporate actions can identify dividend changes
+dolvol,Dollar trading volume,proxy,Can derive from price and volume
+dy,Dividend yield,proxy,Can derive from dividends and prices
+ear,Earnings announcement return,not available,Requires announcement dates
+egr,Growth in common shareholder equity,proxy,Requires balance sheets
+ep,Earnings to price,proxy,Requires earnings and market value
+gma,Gross profitability,not available,Requires detailed accounting data
+herf,Industry sales concentration,not available,Requires industry and sales data
+hire,Employee growth rate,not available,Requires employee data
+idiovol,Idiosyncratic return volatility,proxy,Can estimate using market regression
+ill,Illiquidity,proxy,Can estimate from daily prices and volume
+indmom,Industry momentum,not available,Requires industry classifications
+invest,Capital expenditures and inventory,proxy,Requires cash flow and balance sheet data
+IPO,New equity issue,not available,Requires issuance history
+lev,Leverage,proxy,Can derive from balance sheet
+lgr,Growth in long-term debt,proxy,Requires balance sheets
+maxret,Maximum daily return,proxy,Can derive from daily prices
+ms,Financial statement score,not available,Exact composite definition unavailable
+mve,Size,proxy,Can derive from price and shares
+mve_ia,Industry-adjusted size,not available,Requires industry classifications
+nincr,Number of earnings increases,not available,Requires point-in-time earnings history
+operprof,Operating profitability,proxy,Requires income statement data
+pchcapx_ia,Industry-adjusted change in capital expenditures,not available,Requires industry classifications
+pchcurrat,Change in current ratio,proxy,Requires balance sheets
+pchdepr,Change in depreciation,proxy,Requires accounting data
+pchgm_pchsale,Change in gross margin minus sales growth,not available,Requires detailed accounting data
+pchquick,Change in quick ratio,proxy,Requires balance sheets
+pchsale_pchrect,Sales growth minus accounts-receivable growth,not available,Requires detailed accounting data
+pctacc,Percent accruals,not available,Requires point-in-time accounting data
+pricedelay,Price delay,not available,Requires market and factor regressions
+ps,Financial statements score,not available,Exact composite definition unavailable
+quick,Quick ratio,proxy,Requires balance sheet data
+rd,R&D increase,proxy,Requires income statement data
+retvol,Return volatility,proxy,Can derive from daily prices
+roaq,Return on assets,proxy,Requires income statement and balance sheet data
+roeq,Return on equity,proxy,Requires income statement and balance sheet data
+roic,Return on invested capital,proxy,Requires income statement and balance sheet data
+rsup,Revenue surprise,not available,Requires analyst estimates or announcement history
+salecash,Sales to cash,proxy,Requires income statement and balance sheet data
+salerec,Sales to receivables,proxy,Requires income statement and balance sheet data
+securedind,Secured debt indicator,not available,Requires debt instrument data
+sgr,Sales growth,proxy,Requires income statement data
+sin,Sin stocks,not available,Requires classification data
+SP,Sales to price,proxy,Requires sales and market value
+std_dolvol,Volatility of dollar trading volume,proxy,Can derive from daily prices and volume
+std_turn,Volatility of share turnover,proxy,Requires shares and volume
+sue,Unexpected quarterly earnings,not available,Requires quarterly point-in-time earnings
+tang,Debt capacity or firm tangibility,proxy,Requires balance sheet data
+tb,Tax income to book income,not available,Requires tax accounting data
+turn,Share turnover,proxy,Requires shares and volume
+zerotrade,Zero trading days,proxy,Requires daily trading history

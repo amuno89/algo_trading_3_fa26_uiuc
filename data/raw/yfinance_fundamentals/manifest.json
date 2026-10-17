@@ -1,0 +1,79 @@
+{
+  "downloaded_at_utc": "2026-10-17T04:00:04.548269+00:00",
+  "source": "Yahoo Finance via yfinance",
+  "warning": "Fundamentals are not point-in-time and are not CRSP/Compustat equivalents.",
+  "results": [
+    {
+      "ticker": "AAPL",
+      "status": "downloaded",
+      "files": {
+        "income_statement": 39,
+        "balance_sheet": 69,
+        "cash_flow": 51,
+        "shares": 145,
+        "dividends": 92,
+        "actions": 97
+      }
+    },
+    {
+      "ticker": "MSFT",
+      "status": "downloaded",
+      "files": {
+        "income_statement": 47,
+        "balance_sheet": 79,
+        "cash_flow": 59,
+        "shares": 230,
+        "dividends": 91,
+        "actions": 100
+      }
+    },
+    {
+      "ticker": "AMZN",
+      "status": "downloaded",
+      "files": {
+        "income_statement": 45,
+        "balance_sheet": 61,
+        "cash_flow": 52,
+        "shares": 191,
+        "dividends": 0,
+        "actions": 4
+      }
+    },
+    {
+      "ticker": "GOOGL",
+      "status": "downloaded",
+      "files": {
+        "income_statement": 47,
+        "balance_sheet": 75,
+        "cash_flow": 55,
+        "shares": 622,
+        "dividends": 10,
+        "actions": 12
+      }
+    },
+    {
+      "ticker": "JPM",
+      "status": "downloaded",
+      "files": {
+        "income_statement": 37,
+        "balance_sheet": 50,
+        "cash_flow": 52,
+        "shares": 190,
+        "dividends": 172,
+        "actions": 176
+      }
+    },
+    {
+      "ticker": "XOM",
+      "status": "downloaded",
+      "files": {
+        "income_statement": 42,
+        "balance_sheet": 72,
+        "cash_flow": 52,
+        "shares": 180,
+        "dividends": 258,
+        "actions": 263
+      }
+    }
+  ]
+}

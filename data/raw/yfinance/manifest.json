@@ -1,0 +1,46 @@
+{
+  "downloaded_at_utc": "2026-10-17T03:59:52.732075+00:00",
+  "source": "Yahoo Finance via yfinance",
+  "start": "1979-12-01",
+  "end_exclusive": "2021-01-01",
+  "interval": "1d",
+  "tickers_file": "data/universe/tickers.txt",
+  "results": [
+    {
+      "ticker": "AAPL",
+      "status": "downloaded",
+      "rows": 10100,
+      "file": "data/raw/yfinance/AAPL.parquet"
+    },
+    {
+      "ticker": "MSFT",
+      "status": "downloaded",
+      "rows": 8774,
+      "file": "data/raw/yfinance/MSFT.parquet"
+    },
+    {
+      "ticker": "AMZN",
+      "status": "downloaded",
+      "rows": 5948,
+      "file": "data/raw/yfinance/AMZN.parquet"
+    },
+    {
+      "ticker": "GOOGL",
+      "status": "downloaded",
+      "rows": 4122,
+      "file": "data/raw/yfinance/GOOGL.parquet"
+    },
+    {
+      "ticker": "JPM",
+      "status": "downloaded",
+      "rows": 10288,
+      "file": "data/raw/yfinance/JPM.parquet"
+    },
+    {
+      "ticker": "XOM",
+      "status": "downloaded",
+      "rows": 10360,
+      "file": "data/raw/yfinance/XOM.parquet"
+    }
+  ]
+}

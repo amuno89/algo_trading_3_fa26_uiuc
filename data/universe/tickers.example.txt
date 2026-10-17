@@ -1,0 +1,8 @@
+# Replace this example with the research universe you want to download.
+# One Yahoo Finance symbol per line; blank lines and # comments are ignored.
+AAPL
+MSFT
+AMZN
+GOOGL
+JPM
+XOM
